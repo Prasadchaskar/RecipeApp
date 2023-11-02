@@ -8,6 +8,11 @@ This is a simple web application that allows users to search for food recipes an
 
 - **Recipe Details: 📜** Clicking on a recipe will display detailed information including ingredients and instructions.
 
+## Deployment 🚀
+
+You can access the deployed version of the Food Recipe App on Netlify. Click the link below to start exploring and cooking delicious recipes:
+[![Open Website](https://www.netlify.com/img/deploy/button.svg)](https://main--leafy-daffodil-fa0c81.netlify.app/)
+
 ## Getting Started 🚀
 
 To get a copy of the project up and running on your local machine, follow these steps:
